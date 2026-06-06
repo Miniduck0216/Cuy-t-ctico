@@ -2,7 +2,6 @@
 
 ¡Bienvenido al código fuente de **FuerzaCuy**! Este es un juego de plataformas y acción en 2D desarrollado en Unity 6 donde controlas a John en su misión para rescatar a un cuy táctico en medio de una peligrosa jungla.
 
-🎮 **[¡Juega la versión final directamente en tu navegador en Itch.io!](ENLACE_A_TU_JUEGO_EN_ITCH_IO)**
 
 ---
 
@@ -29,4 +28,5 @@ Si quieres descargar el código para estudiarlo o modificarlo, sigue estos pasos
 1. Asegúrate de tener instalado **Unity 6** a través de Unity Hub.
 2. Clona este repositorio en tu computadora usando Git:
 ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+   git clone [https://github.com/Miniduck0216/Cuy-t-ctico.git](https://github.com/Miniduck0216/Cuy-t-ctico.git)
+
